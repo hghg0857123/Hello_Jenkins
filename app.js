@@ -1,4 +1,4 @@
-//express_demo.js 文件
+//express_demo.js
 var express = require('express');
 var app = express();
  
